@@ -1,5 +1,5 @@
 # tictactoe
-# 2021 James C. Hill
+
 # import necessary modules
 
 import os
